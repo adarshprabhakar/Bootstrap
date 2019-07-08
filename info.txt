@@ -1,0 +1,5 @@
+atom-live-server
+drag-relative-path
+emmet
+file-icon
+platform-ide-terminal
